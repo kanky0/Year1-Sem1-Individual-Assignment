@@ -60,5 +60,5 @@ This program is a **Student Grading System** that allows a **lecturer** to regis
 - Improve UI with a graphical interface.
 
 ## Author
-Developed by Louis Chua Khai Yi, Toh Bin Bin, Tan Jing Hong, and Lieng Yu Hao
+Developed by Louis Chua Khai Yi
 
