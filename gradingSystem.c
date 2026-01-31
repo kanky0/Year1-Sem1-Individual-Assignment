@@ -441,4 +441,5 @@ void view_mark(char id[]) {
     printf("Project\t\t: %.1f/50\n", students_project[position]);
     printf("Total Mark\t: %.1f/100\n", total);
     printf("Grade\t\t: %s\n", student_grades_list[position]);
+
 }
